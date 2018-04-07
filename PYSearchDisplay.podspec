@@ -3,8 +3,8 @@ Pod::Spec.new do |s|
   name           = "#{pod_name}"
   url            = "https://github.com/BobliiExp/#{name}"
   git_url        = "#{url}.git"
-  version        = "0.0.1"
-  source_files   = "#{pod_name}/Poyno/*.{h,m}"
+  version        = "0.0.2"
+  source_files   = "#{pod_name}/Ponyo/*.{h,m}"
 
   s.name         = name
   s.version      = version
