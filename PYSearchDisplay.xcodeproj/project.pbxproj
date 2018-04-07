@@ -16,12 +16,12 @@
 		D189478620787A2C00B917A4 /* sc001.png in Resources */ = {isa = PBXBuildFile; fileRef = D189477620787A2B00B917A4 /* sc001.png */; };
 		D189478720787A2C00B917A4 /* sc002.png in Resources */ = {isa = PBXBuildFile; fileRef = D189477720787A2B00B917A4 /* sc002.png */; };
 		D189478A20787A2C00B917A4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D189477D20787A2B00B917A4 /* ViewController.m */; };
-		D189479420787C7A00B917A4 /* AFFData.m in Sources */ = {isa = PBXBuildFile; fileRef = D189478D20787C7A00B917A4 /* AFFData.m */; };
-		D189479520787C7A00B917A4 /* PYSearchDisplay.m in Sources */ = {isa = PBXBuildFile; fileRef = D189478F20787C7A00B917A4 /* PYSearchDisplay.m */; };
-		D189479620787C7A00B917A4 /* UIImage+Blur.m in Sources */ = {isa = PBXBuildFile; fileRef = D189479120787C7A00B917A4 /* UIImage+Blur.m */; };
-		D189479720787C7A00B917A4 /* UIImage+FX.m in Sources */ = {isa = PBXBuildFile; fileRef = D189479320787C7A00B917A4 /* UIImage+FX.m */; };
 		D189479920787C9A00B917A4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D189479820787C9A00B917A4 /* README.md */; };
 		D189479B20787D0E00B917A4 /* PYSearchDisplay.podspec in Resources */ = {isa = PBXBuildFile; fileRef = D189479A20787D0E00B917A4 /* PYSearchDisplay.podspec */; };
+		D18947A520787F7700B917A4 /* AFFData.m in Sources */ = {isa = PBXBuildFile; fileRef = D189479E20787F7700B917A4 /* AFFData.m */; };
+		D18947A620787F7700B917A4 /* PYSearchDisplay.m in Sources */ = {isa = PBXBuildFile; fileRef = D18947A020787F7700B917A4 /* PYSearchDisplay.m */; };
+		D18947A720787F7700B917A4 /* UIImage+Blur.m in Sources */ = {isa = PBXBuildFile; fileRef = D18947A220787F7700B917A4 /* UIImage+Blur.m */; };
+		D18947A820787F7700B917A4 /* UIImage+FX.m in Sources */ = {isa = PBXBuildFile; fileRef = D18947A420787F7700B917A4 /* UIImage+FX.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,16 +37,16 @@
 		D189477720787A2B00B917A4 /* sc002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sc002.png; sourceTree = "<group>"; };
 		D189477C20787A2B00B917A4 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		D189477D20787A2B00B917A4 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		D189478C20787C7A00B917A4 /* AFFData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFFData.h; sourceTree = "<group>"; };
-		D189478D20787C7A00B917A4 /* AFFData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFFData.m; sourceTree = "<group>"; };
-		D189478E20787C7A00B917A4 /* PYSearchDisplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PYSearchDisplay.h; sourceTree = "<group>"; };
-		D189478F20787C7A00B917A4 /* PYSearchDisplay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PYSearchDisplay.m; sourceTree = "<group>"; };
-		D189479020787C7A00B917A4 /* UIImage+Blur.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Blur.h"; sourceTree = "<group>"; };
-		D189479120787C7A00B917A4 /* UIImage+Blur.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Blur.m"; sourceTree = "<group>"; };
-		D189479220787C7A00B917A4 /* UIImage+FX.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+FX.h"; sourceTree = "<group>"; };
-		D189479320787C7A00B917A4 /* UIImage+FX.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+FX.m"; sourceTree = "<group>"; };
 		D189479820787C9A00B917A4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D189479A20787D0E00B917A4 /* PYSearchDisplay.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PYSearchDisplay.podspec; sourceTree = "<group>"; };
+		D189479D20787F7700B917A4 /* AFFData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFFData.h; sourceTree = "<group>"; };
+		D189479E20787F7700B917A4 /* AFFData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFFData.m; sourceTree = "<group>"; };
+		D189479F20787F7700B917A4 /* PYSearchDisplay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PYSearchDisplay.h; sourceTree = "<group>"; };
+		D18947A020787F7700B917A4 /* PYSearchDisplay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PYSearchDisplay.m; sourceTree = "<group>"; };
+		D18947A120787F7700B917A4 /* UIImage+Blur.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Blur.h"; sourceTree = "<group>"; };
+		D18947A220787F7700B917A4 /* UIImage+Blur.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Blur.m"; sourceTree = "<group>"; };
+		D18947A320787F7700B917A4 /* UIImage+FX.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+FX.h"; sourceTree = "<group>"; };
+		D18947A420787F7700B917A4 /* UIImage+FX.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+FX.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +81,7 @@
 		D189476820787A2B00B917A4 /* PYSearchDisplay */ = {
 			isa = PBXGroup;
 			children = (
-				D189478B20787C7A00B917A4 /* SearchDisplay */,
+				D189479C20787F7700B917A4 /* Ponyo */,
 				D189476D20787A2B00B917A4 /* AppDelegate.h */,
 				D189476E20787A2B00B917A4 /* AppDelegate.m */,
 				D189476F20787A2B00B917A4 /* Assets.xcassets */,
@@ -97,19 +97,19 @@
 			path = PYSearchDisplay;
 			sourceTree = "<group>";
 		};
-		D189478B20787C7A00B917A4 /* SearchDisplay */ = {
+		D189479C20787F7700B917A4 /* Ponyo */ = {
 			isa = PBXGroup;
 			children = (
-				D189478C20787C7A00B917A4 /* AFFData.h */,
-				D189478D20787C7A00B917A4 /* AFFData.m */,
-				D189478E20787C7A00B917A4 /* PYSearchDisplay.h */,
-				D189478F20787C7A00B917A4 /* PYSearchDisplay.m */,
-				D189479020787C7A00B917A4 /* UIImage+Blur.h */,
-				D189479120787C7A00B917A4 /* UIImage+Blur.m */,
-				D189479220787C7A00B917A4 /* UIImage+FX.h */,
-				D189479320787C7A00B917A4 /* UIImage+FX.m */,
+				D189479D20787F7700B917A4 /* AFFData.h */,
+				D189479E20787F7700B917A4 /* AFFData.m */,
+				D189479F20787F7700B917A4 /* PYSearchDisplay.h */,
+				D18947A020787F7700B917A4 /* PYSearchDisplay.m */,
+				D18947A120787F7700B917A4 /* UIImage+Blur.h */,
+				D18947A220787F7700B917A4 /* UIImage+Blur.m */,
+				D18947A320787F7700B917A4 /* UIImage+FX.h */,
+				D18947A420787F7700B917A4 /* UIImage+FX.m */,
 			);
-			path = SearchDisplay;
+			path = Ponyo;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -189,13 +189,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D189479620787C7A00B917A4 /* UIImage+Blur.m in Sources */,
-				D189479520787C7A00B917A4 /* PYSearchDisplay.m in Sources */,
+				D18947A720787F7700B917A4 /* UIImage+Blur.m in Sources */,
+				D18947A620787F7700B917A4 /* PYSearchDisplay.m in Sources */,
 				D189478A20787A2C00B917A4 /* ViewController.m in Sources */,
 				D189478520787A2C00B917A4 /* main.m in Sources */,
 				D189478020787A2C00B917A4 /* AppDelegate.m in Sources */,
-				D189479720787C7A00B917A4 /* UIImage+FX.m in Sources */,
-				D189479420787C7A00B917A4 /* AFFData.m in Sources */,
+				D18947A820787F7700B917A4 /* UIImage+FX.m in Sources */,
+				D18947A520787F7700B917A4 /* AFFData.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
